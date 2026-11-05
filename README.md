@@ -5,7 +5,7 @@ data. Each row becomes one picture, with its own caption, alt text and link, and
 show one to four pictures side by side. Viewers move through them with arrows, dots, a
 preview strip, the keyboard or a swipe, and the carousel follows the selections in the
 app. Pictures can come from the app's media library or from `https://` web addresses, and
-a click can select the item, open its link or go to another sheet.
+a click can select the item, open its link or go to another sheet. Add one measure to show a value, such as a price, under each caption. Switch the layout to Gallery to show all the pictures in a grid that scrolls inside the chart, and pick by picture.
 
 Pictures from the app's media library need no setup. Pictures from web addresses need the picture host allowed in your tenant's Content Security Policy (`img-src`); a tenant admin adds it in the Management Console.
 
