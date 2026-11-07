@@ -1,0 +1,69 @@
+{
+  "name": "Tm Image Carousel",
+  "pitch": "Browse data-backed pictures, scan a gallery, and keep each view in step with Qlik selections.",
+  "question": "Which products, places or assets match the current selections?",
+  "questions": [
+    "Which products or assets match the current selections?",
+    "What does each picture show before I open a record?",
+    "Which pictures need a closer look or a follow-up link?"
+  ],
+  "useWhen": "Present data-backed pictures on a Qlik sheet",
+  "audience": "Qlik analysts and app builders presenting picture-based data to others.",
+  "purposes": ["comparison"],
+  "features": [
+    "Browse one to four pictures with arrows or previews",
+    "Scan and select a scrolling gallery",
+    "Add captions, descriptions, values and links",
+    "Zoom a picture up to four times",
+    "Keep the view in step with Qlik selections",
+    "Supply picture and text values with formulas"
+  ],
+  "featureStrips": [
+    {
+      "heading": "Inspect fine picture detail",
+      "text": "Viewers can inspect a picture at up to four times its size, then return to the full view.",
+      "image": "images/strip-zoom.png",
+      "alt": "Zoom controls enlarge a night-time camping stove while carousel arrows remain available."
+    },
+    {
+      "heading": "Keep overlaid captions readable",
+      "text": "A blurred copy fills empty space behind a caption placed over the picture.",
+      "image": "images/strip-caption.png",
+      "alt": "A mountain picture with its caption over the image and a soft blurred background."
+    },
+    {
+      "heading": "Keep navigation compact in small charts",
+      "text": "As space shrinks, the preview strip gives way to dots or a counter, keeping pictures in focus.",
+      "image": "images/strip-small.png",
+      "alt": "Three chart sizes compare a preview strip, dots and a position counter."
+    },
+    {
+      "heading": "Catch missing click destinations",
+      "text": "Edit mode flags a sheet action with no destination before viewers try the click.",
+      "image": "images/strip-hints.png",
+      "alt": "An edit-mode hint asks the author to set a destination sheet for the click action."
+    }
+  ],
+  "hero": {
+    "file": "images/hero.png",
+    "alt": "A centered trail tent with its caption, preview strip and link in the Demo App.",
+    "caption": "In the Demo App: browse one picture with its caption and previews"
+  },
+  "screenshots": [
+    {
+      "file": "images/gallery.png",
+      "alt": "Outdoor gear pictures fill a scrolling gallery with captions, prices and links.",
+      "caption": "In the Demo App: browse outdoor products in a picture gallery"
+    },
+    {
+      "file": "images/property-data.png",
+      "alt": "The Data panel shows picture, caption, alt text, link, thumbnail and focus point roles beside a tent.",
+      "caption": "In the Demo App: connect picture, caption, description and link data"
+    },
+    {
+      "file": "images/property-presentation.png",
+      "alt": "The Presentation panel shows carousel layout, image fit, caption placement and navigation settings.",
+      "caption": "In the Demo App: review carousel presentation settings"
+    }
+  ]
+}

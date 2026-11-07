@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "product": "tm-image-carousel",
+  "languages": ["en"],
+  "default": "en",
+  "pages": [
+    {
+      "slug": "overview"
+    },
+    {
+      "slug": "when-to-use"
+    },
+    {
+      "slug": "getting-started"
+    },
+    {
+      "slug": "settings"
+    },
+    {
+      "slug": "modes"
+    },
+    {
+      "slug": "tips"
+    }
+  ]
+}

@@ -13,17 +13,19 @@ Pictures from the app's media library need no setup. Pictures from web addresses
 
 All pictures, names and captions are invented demo data.
 
-![A carousel of outdoor pictures with a caption and a preview strip](listing/carousel-hero.png)
+![A carousel of outdoor pictures with a caption, a link and a preview strip](listing/products/tm-image-carousel/images/hero.png)
 
-![The same product pictures shown whole and filling the frame, in a dark theme](listing/product-shots-dark.png)
+![The gallery layout: all pictures in a grid with captions and values](listing/products/tm-image-carousel/images/gallery.png)
 
-![A caption over the background picture, a link and a soft background picture](listing/caption-over-backdrop.png)
+![Qlik's property panel with the Image, Caption, Alt text, Link, Thumbnail and Focus point fields](listing/products/tm-image-carousel/images/property-data.png)
 
-![The controls step down from a preview strip to dots to a counter as the chart gets smaller](listing/small-sizes.png)
+![Qlik's property panel with the carousel layout, image fit and caption settings](listing/products/tm-image-carousel/images/property-presentation.png)
 
-![Auto-play with a pause button, an image counter and a caption above the picture](listing/autoplay-custom.png)
+![A caption over the picture with a soft background picture](listing/products/tm-image-carousel/images/strip-caption.png)
 
-![A picture that cannot load shows a plain box, and a long list says how many pictures it shows](listing/failed-and-capped.png)
+![The controls step down from a preview strip to dots to a counter as the chart gets smaller](listing/products/tm-image-carousel/images/strip-small.png)
+
+![Zoom controls on a picture](listing/products/tm-image-carousel/images/strip-zoom.png)
 
 ## Install
 

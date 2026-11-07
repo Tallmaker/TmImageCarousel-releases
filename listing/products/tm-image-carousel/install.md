@@ -1,0 +1,1 @@
+In Qlik Cloud, upload the extension zip in the Management Console, then add Tm Image Carousel from Custom objects to a sheet. Add a picture field first; captions, alt text, links, previews and an optional value can follow. Pictures from the app media library need no admin change. Web pictures need the picture site allowed in the tenant's image Content Security Policy.
