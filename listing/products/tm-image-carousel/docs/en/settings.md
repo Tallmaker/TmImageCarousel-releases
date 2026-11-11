@@ -148,7 +148,7 @@ Visible when Carousel Auto-play is On. Chooses 2 to 60 seconds in steps of 1. De
 
 ### On image click
 
-Chooses Nothing, Select value, Open link, Go to sheet or Select and go to sheet. Default: Nothing; in Gallery, Nothing acts as Select value. Select value selects the first dimension; Open link opens the picture's valid link in a new tab; sheet actions use Destination sheet. Choose the action that matches the viewer's next task. Edit mode does not select or navigate.
+Chooses Nothing, Select value, Open link, Open large, Go to sheet or Select and go to sheet. Default: Nothing; in Gallery, Nothing acts as Select value. Select value selects the first dimension; Open link opens the picture's valid link in a new tab; Open large shows the picture in a large window with Previous, Next and zoom (in Gallery it replaces selecting); sheet actions use Destination sheet. Choose the action that matches the viewer's next task. Edit mode does not select or navigate.
 
 ### At the last picture
 
@@ -250,9 +250,9 @@ Identifies the publisher. This is read-only information with no setting or defau
 
 Shows the current licence information after checking it. This is read-only, with no configurable value or default; use it to understand the installed licence status.
 
-### Version 1.3.3
+### Version 1.4.0
 
-Shows the installed product version, 1.3.3 for this version of the extension. This is read-only information; there is no setting to change.
+Shows the installed product version, 1.4.0 for this version of the extension. This is read-only information; there is no setting to change.
 
 ### Tm Image Carousel
 

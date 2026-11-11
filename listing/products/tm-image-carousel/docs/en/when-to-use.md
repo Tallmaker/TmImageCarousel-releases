@@ -18,7 +18,7 @@ title: When to use
 
 ## Data and setup
 
-You need at least one dimension, labelled **Image**, and can add one optional measure. It can contain picture file names from the app media library or complete secure web addresses. For a separate selectable product field, use that field in Image and supply the picture address with **Image formula**.
+You need at least one dimension, labelled **Image**, and no measures. It can contain picture file names from the app media library or complete secure web addresses. For a separate selectable product field, use that field in Image and supply the picture address with **Image formula**.
 
 Up to five more dimensions supply Caption, Alt text, Link, Thumbnail and Focus point, in that order. One optional **Value** measure adds a formatted number. Keep the first field unique to each item so items that share a picture remain separately selectable.
 

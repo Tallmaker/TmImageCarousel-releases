@@ -14,9 +14,9 @@
     "Browse one to four pictures with arrows or previews",
     "Scan and select a scrolling gallery",
     "Add captions, descriptions, values and links",
-    "Zoom a picture up to four times",
+    "Zoom in or open a picture large",
     "Keep the view in step with Qlik selections",
-    "Supply picture and text values with formulas"
+    "Mirror browsing for right-to-left apps"
   ],
   "featureStrips": [
     {
@@ -42,6 +42,18 @@
       "text": "Edit mode flags a sheet action with no destination before viewers try the click.",
       "image": "images/strip-hints.png",
       "alt": "An edit-mode hint asks the author to set a destination sheet for the click action."
+    },
+    {
+      "heading": "Open a picture large",
+      "text": "Open large fills the page with a picture and adds controls to move and zoom.",
+      "image": "images/open-large.png",
+      "alt": "Open large shows a fjord kayak with Previous, Next, Close and zoom controls."
+    },
+    {
+      "heading": "Follow the reading direction",
+      "text": "Right-to-left apps mirror arrows, keys, swipes, slides and the gallery grid.",
+      "image": "images/rtl.png",
+      "alt": "A camping stove in the mirrored carousel, with Previous on the right and Next on the left."
     }
   ],
   "hero": {
