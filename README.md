@@ -45,6 +45,6 @@ See the product page:
 
 ## Tested
 
-Tested on Qlik Cloud. Client-managed Qlik Sense is untested.
+Tested on Qlik Cloud.
 
 English only.

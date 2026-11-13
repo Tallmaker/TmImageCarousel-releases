@@ -9,7 +9,9 @@
   ],
   "useWhen": "Present data-backed pictures on a Qlik sheet",
   "audience": "Qlik analysts and app builders presenting picture-based data to others.",
-  "purposes": ["comparison"],
+  "purposes": [
+    "comparison"
+  ],
   "features": [
     "Browse one to four pictures with arrows or previews",
     "Scan and select a scrolling gallery",
@@ -58,10 +60,15 @@
   ],
   "hero": {
     "file": "images/hero.png",
-    "alt": "A centered trail tent with its caption, preview strip and link in the Demo App.",
-    "caption": "In the Demo App: browse one picture with its caption and previews"
+    "alt": "Tm Image Carousel on a dark green field with two overlapping display cards: a single picture with arrows and previews, and a gallery of selectable pictures.",
+    "caption": "Pictures that follow your Qlik selections"
   },
   "screenshots": [
+    {
+      "file": "images/screenshot-carousel.png",
+      "alt": "A centered trail tent with its caption, preview strip and link in the Demo App.",
+      "caption": "In the Demo App: browse one picture with its caption and previews"
+    },
     {
       "file": "images/gallery.png",
       "alt": "Outdoor gear pictures fill a scrolling gallery with captions, prices and links.",
@@ -77,5 +84,9 @@
       "alt": "The Presentation panel shows carousel layout, image fit, caption placement and navigation settings.",
       "caption": "In the Demo App: review carousel presentation settings"
     }
-  ]
+  ],
+  "cover": {
+    "file": "images/cover.png",
+    "alt": "Tm Image Carousel with two overlapping display cards: a single picture with arrows and previews, and a gallery of selectable pictures."
+  }
 }
